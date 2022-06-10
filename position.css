@@ -1,0 +1,43 @@
+#map {
+  height: 450px;
+}
+
+main {
+  text-align: center;
+  background-image: url(./bg.png);
+  background-size: cover;
+  
+}
+
+#positionBtn {
+  font-size: 30px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#textPosition {
+  font-size: 23px;
+  margin-top: 1rem;
+}
+
+#savePosition {
+  font-size: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#lastPosition {
+  font-size: 30px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+#loading {
+  font-size: 23px;
+}
+
+#deletePosition {
+  font-size: 30px;
+  margin-top: 20px;
+  cursor: pointer;
+}
